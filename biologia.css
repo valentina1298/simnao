@@ -34,3 +34,12 @@ header {
     width: 20%;
     display: inline-block;
 }
+.ding: 1.05rem 1.5rem;
+    colbotao-disciplinas {
+    cursor: pointer;
+    font-size: 2rem;
+    background: none;
+    background-color: var(--preto);
+    border: none;
+    pador: var(--roxo-claro);
+}
