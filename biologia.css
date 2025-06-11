@@ -79,3 +79,9 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+.lista-horizontal {
+    list-style: none;
+    display: flex;
+    font-size: 2rem;
+    gap: 17rem;
+}
