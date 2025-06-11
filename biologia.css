@@ -29,3 +29,8 @@ header {
     position: relative;
     justify-content: center;
 }
+
+.menu-disciplina {
+    width: 20%;
+    display: inline-block;
+}
