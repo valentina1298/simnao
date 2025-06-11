@@ -85,3 +85,7 @@ header {
     font-size: 2rem;
     gap: 17rem;
 }
+.lista-horizontal a {
+    text-decoration: none;
+    color: var(--amarelo-claro);
+}
