@@ -64,3 +64,6 @@ header {
     display: block;
     text-align: center;
 }
+.lista-vertical a:hover {
+    background-color: var(--amarelo-claro);
+}
