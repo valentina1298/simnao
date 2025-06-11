@@ -73,3 +73,9 @@ header {
 #menu-toggle:checked+.botao-disciplinas {
     background-color: var(--amarelo-claro);
 }
+.links-principais {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
