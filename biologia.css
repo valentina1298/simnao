@@ -70,3 +70,6 @@ header {
 #menu-toggle:checked~.lista-vertical {
     display: block;
 }
+#menu-toggle:checked+.botao-disciplinas {
+    background-color: var(--amarelo-claro);
+}
