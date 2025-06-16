@@ -130,3 +130,9 @@ h1 {
     margin-bottom: 15px;
     font-size: 2.8rem;
 }
+.conteudo p {
+    line-height: 1.6;
+    color: var(--preto);
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
