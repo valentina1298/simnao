@@ -89,3 +89,6 @@ header {
     text-decoration: none;
     color: var(--amarelo-claro);
 }
+.lista-horizontal a:hover {
+    color: var(--preto);
+}
