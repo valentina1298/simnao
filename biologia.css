@@ -150,3 +150,7 @@ h1 {
     transform: translateX(10px);
     color: var(--verde);
 }
+.home {
+    display: flex;
+    justify-content: flex-end;
+}
