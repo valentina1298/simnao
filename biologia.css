@@ -123,3 +123,10 @@ h1 {
     transform: translateY(-10px) scale(1.05);
     box-shadow: 0 0 0 25px rgba(0, 0, 0, 0.2);
 }
+.conteudo h2 {
+    display: flex;
+    justify-content: center;
+    color: var(--verde);
+    margin-bottom: 15px;
+    font-size: 2.8rem;
+}
