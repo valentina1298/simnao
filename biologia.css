@@ -161,3 +161,9 @@ h1 {
 .conteudo ul li .block {
     display: none;
 }
+.conteudo ul li:hover .block {
+    display: block;
+    text-align: justify;
+    color: var(--marinho);
+    margin-bottom: 5px;
+}
