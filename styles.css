@@ -59,3 +59,8 @@ main {
     transform: translateY(-10px) scale(1.05);
     box-shadow: 0 0 0 25px rgba(0, 0, 0, 0.2);
 }
+.disciplina a {
+    color: var(--verde);
+    font-size: 5rem;
+    text-decoration: none;
+}
