@@ -102,3 +102,11 @@ h1 {
     margin-bottom: 60px;
     font-size: 4rem;
 }
+.biologia-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
