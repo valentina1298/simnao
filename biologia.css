@@ -34,14 +34,15 @@ header {
     width: 20%;
     display: inline-block;
 }
-.ding: 1.05rem 1.5rem;
-    colbotao-disciplinas {
-    cursor: pointer;
-    font-size: 2rem;
-    background: none;
-    background-color: var(--preto);
-    border: none;
-    pador: var(--roxo-claro);
+.lista-vertical {
+    display: none;
+    position: absolute;
+    background-color: var(--roxo-claro);
+    box-shadow: 0 2px 5px var(--marinho);
+    min-width: 190px;
+    z-index: 1;
+    left: 1rem;
+    top: 100%;
 }
 #menu-toggle {
     display: none;
