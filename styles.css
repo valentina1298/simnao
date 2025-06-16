@@ -21,3 +21,10 @@ body{
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
+header {
+    display: flex; 
+    width: 100%;
+    background-color: var(--marinho);
+    padding: 1rem;
+    justify-content: center;
+}
