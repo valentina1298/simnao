@@ -178,3 +178,10 @@ h1 {
     margin: 0;
     padding: 0;
 }
+.conteudo ul li:hover .opacidade {
+    opacity: 1;
+    max-height: 320px;
+    text-align: justify;
+    color: var(--marinho);
+    margin-bottom: 5px;
+}
