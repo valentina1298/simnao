@@ -92,3 +92,7 @@ header {
 .lista-horizontal a:hover {
     color: var(--preto);
 }
+main {
+    margin: 40px auto;
+    padding: 20px;
+}
