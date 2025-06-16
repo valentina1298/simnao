@@ -96,3 +96,9 @@ main {
     margin: 40px auto;
     padding: 20px;
 }
+h1 {
+    text-align: center;
+    color: var(--verde);
+    margin-bottom: 60px;
+    font-size: 4rem;
+}
