@@ -167,3 +167,14 @@ h1 {
     color: var(--marinho);
     margin-bottom: 5px;
 }
+.opacidade {
+    display: block;
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: opacity 1.5s ease, max-height 1.5s ease;
+    color: var(--marinho);
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
